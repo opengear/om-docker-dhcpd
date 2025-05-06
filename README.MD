@@ -9,7 +9,7 @@ Instructions:
 
     1. Copy all files to the OM (via SCP, USB, etc)
     2. Bash "import.sh" to import the docker image to the OM
-    3. Bash "run.sh" to build and start the container
+    3. Bash "run.sh" to build and start the container (make sure you have a good dhcpd.conf beforehand)
 
 Usage:
 
