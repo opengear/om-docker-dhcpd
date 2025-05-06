@@ -17,3 +17,4 @@ Usage:
     run.sh - Build and start the container (you can run this each time instead of stop.sh or start.sh)
     stop.sh - stop the container
     start.sh - restart the container
+    leases.sh - checks the current lease database (use to verify leases are being given out)
